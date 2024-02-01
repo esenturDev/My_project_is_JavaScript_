@@ -1,0 +1,31 @@
+html {
+	background: url(https://s1.1zoom.ru/big0/937/Anemones_Closeup_Black_background_Blue_Petals_564198_1280x856.jpg) fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	z-index: -2;
+  width: 1440px;
+	height: auto;
+}
+
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+ol,
+ul {
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+button {
+	cursor: pointer;
+}
+
+html {
+	color-scheme: dark;
+}
